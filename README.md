@@ -58,14 +58,3 @@ Throughout the internship, I encountered various challenges, which allowed me to
 ## Future Goals
 
 My experience at TechnoHacks has been invaluable, and it has inspired me to continue pursuing a career in data analysis. I look forward to building upon the skills I have acquired and applying them to real-world problems.
-
-## Contact Information
-
-If you have any questions or would like to get in touch, you can reach me via:
-
-- Email: devkaushik611@gmail.com
-- LinkedIn:(https://www.linkedin.com/in/devvrat-kaushik-84024b220/)
-
-Thank you for taking the time to explore my internship experience at TechnoHacks. I look forward to sharing more about my journey in the field of data analysis and contributing to the data analytics community.
-
-![img_14](https://github.com/devvrat29/TechnoHacksInternship/assets/146213827/f77522ac-5d1a-4801-94ca-4c04947fcd55)
